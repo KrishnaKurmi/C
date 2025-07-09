@@ -17,6 +17,7 @@ This repository contains various C programs focused on logic building, number op
 | **NumberTriangleContinuous.c**  | Prints a continuous number triangle pattern.          |
 | **NumberTrianglePyramid.c**     | Prints a pyramid-style number triangle pattern.       |
 | **PalindromeNumber.c**          | Checks whether a number is a palindrome.              |
+| **PowerOfNumber.c**             | Program to calculate the power of a number (x^y)      |
 | **PrimeNumber.c**               | Checks whether a number is prime.                     |
 | **ReverseNumber.c**             | Reverses the digits of a given number.                |
 | **SimpleInterest.c**            | Calculates simple interest.                           |
