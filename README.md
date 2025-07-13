@@ -7,6 +7,7 @@ This repository contains various C programs focused on logic building, number op
 | File Name                       | Description                                           |
 |---------------------------------|-------------------------------------------------------|
 | **ArmstrongNumber.c**           | Checks whether a number is an Armstrong number.       |
+| **ArrayQueueRepresentation.c**           | Demonstrate .       |
 | **EvenOdd.c**                   | Checks whether a number is even or odd.               |
 | **Factorial.c**                 | Calculates the factorial of a number.                 |
 | **Fibonacci.c**                 | Generates the Fibonacci series.                       |
