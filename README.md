@@ -6,6 +6,7 @@ This repository contains various C programs focused on logic building, number op
 
 | File Name                       | Description                                           |
 |---------------------------------|-------------------------------------------------------|
+| `AnagramChecker.c`            | Checks whether  is an Armstrong number.  |
 | **ArmstrongNumber.c**           | Checks whether a number is an Armstrong number.       |
 | **ArrayQueueRepresentation.c**   | Demonstrate working of Queue using Array.       |
 | **EvenOdd.c**                   | Checks whether a number is even or odd.               |
